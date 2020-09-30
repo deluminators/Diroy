@@ -134,7 +134,7 @@ Go to root of the project, change directory to backend
 
 cd backend
 
-### <a href="https://github.com/deluminators/Diroy/blob/master/Diroy.pdf">Click here to see the ppt</a> and <a href="https://github.com/deluminators/Diroy/blob/master/Documentation.pdf">here to see the documentation</a>
+
 
 
 npm install
@@ -205,3 +205,8 @@ As stated in the ideal solution, we will be making an integrated mobile applicat
 * [Google-Map-API](https://developers.google.com/maps/documentation)
 * [PWA](https://web.dev/progressive-web-apps/)
 * [Helmet](https://helmetjs.github.io/)
+
+<br />
+<br />
+<br />
+### Click <a href="https://github.com/deluminators/Diroy/blob/master/Diroy.pdf">here</a> to see the ppt and <a href="https://github.com/deluminators/Diroy/blob/master/Documentation.pdf">here</a> to see the documentation.
