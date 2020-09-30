@@ -10,10 +10,6 @@
 
 <br />
 <br />
-<br />
 
 ### Team: Deluminators
-
-<br />
-
 ### Institute: International Institution of Information Technology, Bhubaneswar
