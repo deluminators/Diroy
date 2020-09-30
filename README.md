@@ -112,4 +112,9 @@ In devising the solution for the above-said problems we considered applying the 
 *At a certain instant, when the vehicle is not too close, neither too far off, the registration plate of the vehicle gets captured and stored and updates onto the system of our application.*
 <br />
 
+<br /> <br /> <br />
+
+### Technological Stack
+<br />
+As stated in the ideal solution, we will be making an integrated mobile application, for which we plan to use the React Native framework in the frontend, NodeJS, and ExpressJS framework in the backend, MongoDB and Mongoose in building the database system. For initial or normal usages, we can also fetch the required location data for which we plan to use the Here Maps API, but for making special usages, we plan to integrate the sensor information from Accelerometers, Odometers, Gyroscopes, and E-Compass, for gaining the necessary information about distance  moved and direction used for finding the relative location in the localized swarms. For building the communication channels, we plan to integrate the Bluetooth technology, Wi-fi, and Radio Frequency technology currently available in almost all smartphones and partially in vehicles for building the localized tower-based peer-to-peer decentralized channel-based communication channel. For building any required ML/DL models, frameworks like Scikit-Learn and Tensorflow are to be used, and if required cloud deployment can also opt for the smooth functioning of the application.
 
