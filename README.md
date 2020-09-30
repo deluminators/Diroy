@@ -134,6 +134,7 @@ Go to root of the project, change directory to backend
 
 cd backend
 
+### <a href="https://github.com/deluminators/Diroy/blob/master/Diroy.pdf">Click here to see the ppt</a> and <a href="https://github.com/deluminators/Diroy/blob/master/Documentation.pdf">here to see the documentation</a>
 
 
 npm install
