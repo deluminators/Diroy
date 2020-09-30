@@ -11,7 +11,8 @@
 <br />
 <br />
 
-*Team: Deluminators*
+#### Team: 
+*Deluminators*
 <br />
-
-*Institute: International Institution of Information Technology, Bhubaneswar*
+#### Institute: 
+*International Institution of Information Technology, Bhubaneswar*
