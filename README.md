@@ -28,7 +28,7 @@ On researching over the problem statement, we find that apart from applying the 
  
  ### Our Solution
 <br />
-
+<img align="left" src="https://github.com/deluminators/Diroy/blob/master/pictures/Swarm02.gif" />
 On digging more into the problem statement, some points came into the highlights, first one being, the current tracking services are facing are firstly lack of proper and stable internet connection and secondly, lack of a proper communication channel so as to transmit and receive information and finally, unstable GPS and GPRS data sources from which location information can be fetched. 
 
 
