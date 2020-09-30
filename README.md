@@ -3,7 +3,7 @@
 ## A Feature aimed mobile and web-based application for smart tracking of people and vehicles using the conceptual framework of Swarm Intelligence.
 
 <img align="right" src="https://github.com/deluminators/Diroy/blob/master/pictures/Swarm.gif" />
-<br /> <br />
+<br /> 
 
 ### Problem Statement: 
 **Smart movement tracking solution of people/vehicles from point A to point B**
