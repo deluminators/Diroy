@@ -6,10 +6,10 @@
 <br /> 
 
 ### Problem Statement: 
-**Smart movement tracking solution of people/vehicles from point A to point B**
+*Smart movement tracking solution of people/vehicles from point A to point B*
 
 <br />
 <br />
 
-### Team: Deluminators
-### Institute: International Institution of Information Technology, Bhubaneswar
+*Team: Deluminators*
+*Institute: International Institution of Information Technology, Bhubaneswar*
