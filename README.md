@@ -72,6 +72,7 @@ In devising the solution for the above-said problems we considered applying the 
 
 #### 2. Second level of operation
 <br />
+
 *Primarily focused on the vehicles traveling through routes wherein proper monitoring is a dire necessity.*
 <br />
 
@@ -93,5 +94,22 @@ In devising the solution for the above-said problems we considered applying the 
 *A small and light and magnetic hardware device, encompassing accelerometric and gyroscopic sensors, is to be provided and can be availed in case the user does not have a cellular device along with him/her.* 
 <br />
 
+#### 3. Third level of operation
+<br />
+
+*This stage is for providing the most accurate tracking information and details of the vehicles traveling through the roads it is being used at.*
+<br />
+
+*The concerned strip to be laid out with smart reflectors, embodying cameras for detecting the approaching vehicles, also containing micro cellular modules for data transfer.*
+<br />
+
+*Each reflector to have its own range for tracking.*
+<br />
+
+*As a vehicle approaches, the camera present onboard the reflector starts analyzing the vehicle, and the speed thereby gets calculated by the rate at which the size of the captured vehicles increases.*
+<br />
+
+*At a certain instant, when the vehicle is not too close, neither too far off, the registration plate of the vehicle gets captured and stored and updates onto the system of our application.*
+<br />
 
 
