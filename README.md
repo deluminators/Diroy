@@ -207,6 +207,6 @@ As stated in the ideal solution, we will be making an integrated mobile applicat
 * [Helmet](https://helmetjs.github.io/)
 
 <br />
-<br />
-<br />
+
+
 ### Click <a href="https://github.com/deluminators/Diroy/blob/master/Diroy.pdf">here</a> to see the ppt and <a href="https://github.com/deluminators/Diroy/blob/master/Documentation.pdf">here</a> to see the documentation.
