@@ -171,6 +171,8 @@ react-native run-android
 
 A metro server will run and then,
 An android app will be running on your android device.
+<br />
+<br />
 
 ##  🏁 Technology Stack
 <br />
