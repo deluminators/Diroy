@@ -56,7 +56,7 @@ In devising the solution for the above-said problems we considered applying the 
 *The dashboard also encapsulating tracking features to show live movement details en route a journey, along with displaying the live/ average speed, status, and coordinates of the availing user.*
 <br />
 
-*A Networking module providing some exclusive features like smart broadcast and smart location share i.e., the broadcast feature would transmit the location information of the availing user to all the connected devices within the network circumscribed by a particular range, while the smart location share is a feature built solely for the purpose of sharing the location data to specific known users of the concerned user, embedding the concept of hash keys for identification purposes. *
+*A Networking module providing some exclusive features like smart broadcast and smart location share i.e., the broadcast feature would transmit the location information of the availing user to all the connected devices within the network circumscribed by a particular range, while the smart location share is a feature built solely for the purpose of sharing the location data to specific known users of the concerned user, embedding the concept of hash keys for identification purposes.*
 <br />
 
 *The networking module implemented therefore would provide emergency aids to concerned users in the event of any mishap occurring.*
@@ -71,6 +71,28 @@ In devising the solution for the above-said problems we considered applying the 
 *Live tracking information of all the vehicles moving under a particular fleet, such as the speed details of every individual vehicle and likewise, would be visible to each member of that fleet, and in the event of any fleet disruption, the remaining vehicles under the fleet would automatically adjust themselves based on the current situation.*
 <br />
 
+#### 2. Second level of operation
+<br />
+*Primarily focused on the vehicles traveling through routes wherein proper monitoring is a dire necessity.*
+<br />
+
+*Users having/ not having our application, both, can be tracked and monitored.*
+<br />
+
+*The registration number of the vehicles entering this bounded route would be captured at the point where the monitored road starts, using tools such as OpenCV, etc.*
+<br />
+
+*As a second layer of monitoring, the IEMI number of the cellular device detected with the user, from the network source connected to, is collected and stored alongside the registration plate details of the vehicle captured.*
+<br />
+
+*The concerned path is to be divided into sections, with each section having a node manager to track that portion of the path is to be set up.*
+<br />
+
+ *Each node is associated with a particular length of the strip and as and when a vehicle enters and leaves a specific segment, the node of the segment turns active, constantly measuring the time the vehicle stays in, while crossing the segment, through emitted radiofrequency waves, and thereby provides an average speed measure of the vehicle from the distance and the time recorded, in that particular segment of the strip.*
+ <br />
+ 
+*A small and light and magnetic hardware device, encompassing accelerometric and gyroscopic sensors, is to be provided and can be availed in case the user does not have a cellular device along with him/her.* 
+<br />
 
 
 
