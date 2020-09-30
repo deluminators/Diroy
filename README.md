@@ -118,3 +118,81 @@ In devising the solution for the above-said problems we considered applying the 
 <br />
 As stated in the ideal solution, we will be making an integrated mobile application, for which we plan to use the React Native framework in the frontend, NodeJS, and ExpressJS framework in the backend, MongoDB and Mongoose in building the database system. For initial or normal usages, we can also fetch the required location data for which we plan to use the Here Maps API, but for making special usages, we plan to integrate the sensor information from Accelerometers, Odometers, Gyroscopes, and E-Compass, for gaining the necessary information about distance  moved and direction used for finding the relative location in the localized swarms. For building the communication channels, we plan to integrate the Bluetooth technology, Wi-fi, and Radio Frequency technology currently available in almost all smartphones and partially in vehicles for building the localized tower-based peer-to-peer decentralized channel-based communication channel. For building any required ML/DL models, frameworks like Scikit-Learn and Tensorflow are to be used, and if required cloud deployment can also opt for the smooth functioning of the application.
 
+## Prerequisties
+
+*For backend and web app*
+* node and npm installed
+
+*For android app* 
+* node, npm and react native cli installed 
+
+## Installation & Setup 
+
+A step by step series of examples that tell you how to get a development env running
+
+*To start the server*
+Go to root of the project, change directory to backend
+
+
+cd backend
+
+
+
+npm install
+
+
+
+npm start
+
+
+Server will be running on localhost
+
+*To start the web app*
+Go to root of the project, run
+
+
+cd webapp
+
+Open index.html file
+
+*To start the android app*
+On your android device enable usb debugging connect usb to you PC.
+
+Go to root of the project, run
+
+
+cd mobileapp
+
+
+
+npm install
+
+
+
+react-native run-android
+
+A metro server will run and then,
+An android app will be running on your android device.
+
+##  🏁 Technology Stack
+
+*Frontend*
+* [HTML](https://www.w3schools.com/html/)
+* [CSS](https://www.w3schools.com/css/)
+* [JavaScript](https://www.javascript.com/learn/strings)
+
+*Android*
+* [ReactNative](https://reactnative.dev/)
+
+*Backend*
+* [Nodejs](https://nodejs.org/en/)
+* [mongoDB](https://www.mongodb.com/)
+* [express](https://expressjs.com/)
+
+*Other*
+
+* [Mapquest](https://www.mapquest.com/)
+* [Here API](https://developer.here.com/)
+* [Google-Map-API](https://developers.google.com/maps/documentation)
+* [PWA](https://web.dev/progressive-web-apps/)
+* [Helmet](https://helmetjs.github.io/)
