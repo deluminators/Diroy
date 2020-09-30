@@ -30,6 +30,9 @@ On researching over the problem statement, we find that apart from applying the 
 <br />
 <img align="left" src="https://github.com/deluminators/Diroy/blob/master/pictures/Swarm02.gif" />
 On digging more into the problem statement, some points came into the highlights, first one being, the current tracking services are facing are firstly lack of proper and stable internet connection and secondly, lack of a proper communication channel so as to transmit and receive information and finally, unstable GPS and GPRS data sources from which location information can be fetched. 
-<br />
+<br /> <br />
 
 In devising the solution for the above-said problems we considered applying the **conceptual framework of Swarm Intelligence** into our product thus making a solution which can track and communicate without the usage of GPS/GPRS/Internet technologies thus making a sustainable solution for varied usage and applications, so as to simplify the whole tracking process.
+<br />
+*For a note*, basically Swarm Intelligence conceptualizes the making of a decentralized system where information of individual nodes is localized to them, and with mutual understanding, they transmit the information or relations as and when required.
+
