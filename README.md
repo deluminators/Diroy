@@ -38,19 +38,39 @@ In devising the solution for the above-said problems we considered applying the 
 *For a note*, basically Swarm ***Intelligence conceptualizes the making of a decentralized system where information of individual nodes is localized to them, and with mutual understanding, they transmit the information or relations as and when required***.
 <br /> <br /> <br />
 
-### Operational levels
+### Stages of operation
 <br />
+
 #### 1. Level 01
 <br />
+
 Primarily to be used by the people having our application installed in their cellular devices.
+<br />
+
 A dashboard displaying the current status and location of the user, simultaneously running the Swarm Intelligence module in the background and calculating the relative position with respect to the other fixed and movable devices detected.
+<br />
+
 A button to calibrate the skeleton metrics onto the map of that particular area, using cellular data and GPS features, thereby providing a piece of detailed two-dimensional location information.
+<br />
+
 The dashboard also encapsulating tracking features to show live movement details en route a journey, along with displaying the live/ average speed, status, and coordinates of the availing user.
+<br />
+
 A Networking module providing some exclusive features like smart broadcast and smart location share i.e., the broadcast feature would transmit the location information of the availing user to all the connected devices within the network circumscribed by a particular range, while the smart location share is a feature built solely for the purpose of sharing the location data to specific known users of the concerned user, embedding the concept of hash keys for identification purposes. 
+<br />
+
 The networking module implemented therefore would provide emergency aids to concerned users in the event of any mishap occurring.
+<br />
+
 All the data transmission methods hereby being availed are being done through the concept of p2p mesh network transmission, where every individual cellular device works simultaneously as a receiver and a transmitter, thus selecting automatically the best network protocol available for the successful transmission.
+<br />
+
 Lastly, we have a fleet management system provided onboard, wherein, every individual vehicle moving under a particular fleet of vehicles has access to the unique identifier keys of every other vehicle moving under that particular fleet.
-Live tracking information of all the vehicles moving under a particular fleet, such as the speed details of every individual vehicle and likewise, would be visible to each member of that fleet, and in the event of any fleet disruption, the remaining vehicles under the fleet would automatically adjust themselves based on the current situation.  
+<br />
+
+Live tracking information of all the vehicles moving under a particular fleet, such as the speed details of every individual vehicle and likewise, would be visible to each member of that fleet, and in the event of any fleet disruption, the remaining vehicles under the fleet would automatically adjust themselves based on the current situation.
+<br />
+
 
 
 
